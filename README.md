@@ -1,4 +1,4 @@
-# ChatBot_POC_1
+# ChatBot_POC_2
 ChatBot POC using ChatGPT 3.5 turbo and Python Flask
 
 Install Python version 3
