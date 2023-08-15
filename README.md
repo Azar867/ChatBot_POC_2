@@ -1,5 +1,5 @@
 # ChatBot_POC_1
-ChatBot POC using Microsoft DialoGPT and Python Flask
+ChatBot POC using ChatGPT 3.5 turbo and Python Flask
 
 Install Python version 3
 
@@ -9,7 +9,7 @@ Install PIP
 
 >> which pip
 
->> pip install -r requirements.txt
+>> pip install openai
 
 
 Run the app
